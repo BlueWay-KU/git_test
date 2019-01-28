@@ -94,5 +94,3 @@ def DTU():
     #print("Route : ", routing[exit_n]['route'])
     return routing[exit_n]['route']
     #print("ShortestDistance : ", routing[exit_n]['shortestDist'])
-
-print(DTU())
